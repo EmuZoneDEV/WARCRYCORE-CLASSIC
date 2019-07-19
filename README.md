@@ -1,0 +1,2 @@
+# WARCRYCORE-CLASSIC
+ WOW Vanilla Server
